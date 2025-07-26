@@ -27,4 +27,3 @@ Approximately **6 hours**
 
 - It was unclear whether the image name should come from the file name or a separate input, so I added a custom name input field.
 - Backend is a mock API with local file storage (no database or cloud storage).
-# Front-end-Assessment
